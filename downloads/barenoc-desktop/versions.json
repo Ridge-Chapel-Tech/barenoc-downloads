@@ -1,0 +1,23 @@
+{
+  "product": "barenoc-desktop",
+  "updated": "2026-09-10T00:00:00Z",
+  "hosting": "github-releases (interim; target: Cloudflare R2 + downloads.barenoc.com)",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "channel": "stable",
+      "released": "2026-09-09T19:28:33Z",
+      "source_commit": "9aa1186fb9ef",
+      "ci_run": "34394699726",
+      "notes": "Bundled pi runtime + Git-bash subset (POSIX shell for the full agent)",
+      "assets": {
+        "windows-x64": {
+          "file": "BareNOC-Desktop-0.1.0.msi",
+          "url": "https://github.com/Ridge-Chapel-Tech/barenoc-downloads/releases/download/desktop-0.1.0-2026.09.09/BareNOC-Desktop-0.1.0.msi",
+          "sha256": "9e570a2d35864bf69e765bc6402df50e343b993922d7e923e703bb6092895e7e",
+          "size_bytes": 227188896
+        }
+      }
+    }
+  ]
+}
